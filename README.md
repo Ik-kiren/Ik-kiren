@@ -1,4 +1,4 @@
-Hi, I'm Ikkiren a french dev student looking to become a game developer.
+<h4>Hi, I'm Ikkiren a french dev student looking to become a game developer.</h4>
 
 <h2>My Game Projects :</h2>  
 
