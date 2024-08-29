@@ -1,4 +1,4 @@
-<h4>Hi, I'm Ikkiren a french dev student looking to become a game developer.</h4>
+<h4>Hi, I'm Ikkiren a french dev student aiming to become a game developer.</h4>
 
 <h2>My Game Projects :</h2>  
 
@@ -20,4 +20,7 @@ more infomartions : https://github.com/Ik-kiren/unity42-module03
 
 rhythm game made with Three.js in javascript integrated on a website with multiplayer(up right scores is other player found in matchmaking)  
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNiYXZzYmdjbXkyMDZuenBuZW53ZHVybWtnZHI5c200c2M5NGVucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjRRXJiSHcvT78pxLl/giphy.webp)  
-more infomartions but may not be the up-to-date one (the up-to-date could be in the whole private repo project): [https://github.com/Ik-kiren/unity42-module03 ](https://github.com/Ik-kiren/TranscendanceGame) 
+more infomartions but may not be the up-to-date one (the up-to-date could be in the whole private repo project): [https://github.com/Ik-kiren/unity42-module03 ](https://github.com/Ik-kiren/TranscendanceGame)
+
+A game made with gameMaker in for the GMTK 96H game jam (https://itch.io/jam/gmtk-2024) https://github.com/Ik-kiren/LittleSlimeGMTK
+https://github.com/Ik-kiren/LittleSlimeGMTK
