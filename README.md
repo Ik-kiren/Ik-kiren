@@ -24,5 +24,5 @@ more infomartions but may not be the up-to-date one (the up-to-date could be in 
 
 A game made with gameMaker in for the GMTK 96H game jam (https://itch.io/jam/gmtk-2024) https://github.com/Ik-kiren/LittleSlimeGMTK 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhodGpzOTBhcHkxMHhybXVtYTYwanN1YzZycW9hZ3BuNmN0dTNxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZQqXAbfBaraRc4wKf/giphy.gif)  
-playable on navigator on https://ikkiren.itch.io/little-slime  
+playable on navigator at https://ikkiren.itch.io/little-slime  
 more infomartions : https://github.com/Ik-kiren/LittleSlimeGMTK
