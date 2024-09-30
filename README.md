@@ -28,5 +28,5 @@ playable on browser at https://ikkiren.itch.io/little-slime
 more infomartions : https://github.com/Ik-kiren/LittleSlimeGMTK
 
 A game made in 1 week with Godot for the Brackeys Game Jam 2024.2 (https://itch.io/jam/brackeys-12)  
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxibjVoYXpvMTlwaG8zcDM3cGJ2bTduNzh1NnN2emk1NWJqdmd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2ZOP6XmFsP730KhIb/giphy.gif)  
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpmMjNzaGJhd3hmc3piYTZidmNteXN4cmYwMjA0NHh0MWdnOWtoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp)  
 playable at : https://impstudio2024.itch.io/dungeons-deceit  
