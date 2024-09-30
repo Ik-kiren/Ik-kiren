@@ -28,6 +28,6 @@ playable on browser at https://ikkiren.itch.io/little-slime
 more infomartions : https://github.com/Ik-kiren/LittleSlimeGMTK
 
 A game made in 1 week with Godot for the Brackeys Game Jam 2024.2 (https://itch.io/jam/brackeys-12)
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR3b281aGcyM2tzbW44dTJhdDl4dGwxa21wY2NtZnd1cW1nYnBzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp)  
-![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRhZmg1bnlubGU5c2tvMHc0bWFyeWEwbmQ0Yjlua2FwdTFwdXB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4sHmQFhbAEz0A4g8u/giphy.webp)  
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR3b281aGcyM2tzbW44dTJhdDl4dGwxa21wY2NtZnd1cW1nYnBzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp  
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRhZmg1bnlubGU5c2tvMHc0bWFyeWEwbmQ0Yjlua2FwdTFwdXB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4sHmQFhbAEz0A4g8u/giphy.webp  
 playable at : https://impstudio2024.itch.io/dungeons-deceit  
