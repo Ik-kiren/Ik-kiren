@@ -14,11 +14,11 @@ more informations : https://github.com/Ik-kiren/unity42-module01
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwdjc1YzI2cGRnb2l1ZTNpd2ZjdDE0MnpqMGJiMXFoMXphaWJtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z22VhE2b1UXWJMYEF/giphy.gif)  
 more informations : https://github.com/Ik-kiren/unity42-module02  
 
-2D platformer game with sound, animations and persistence made with unity.  
+2D platformer game with sounds, animations and persistence made with unity.  
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrdHpsc3V4emw0bGV5N2czNWJmMzFuaXpiNjRkcG9za2k4ZzBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zefzBNf6gD7BFalcg0/giphy.gif)  
 more informations : https://github.com/Ik-kiren/unity42-module03  
 
-rhythm game made with Three.js in javascript integrated on a website with multiplayer(up right scores is other player found in matchmaking)  
+rhythm game made with Three.js in javascript, integrated in a website with multiplayer real-time scoring(up right scores is other player found in matchmaking)  
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNiYXZzYmdjbXkyMDZuenBuZW53ZHVybWtnZHI5c200c2M5NGVucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjRRXJiSHcvT78pxLl/giphy.webp)  
 more informations but may not be the up-to-date one (the up-to-date could be in the whole private repo project): [https://github.com/Ik-kiren/unity42-module03 ](https://github.com/Ik-kiren/TranscendanceGame)
 
