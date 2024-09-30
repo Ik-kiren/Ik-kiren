@@ -24,5 +24,10 @@ more infomartions but may not be the up-to-date one (the up-to-date could be in 
 
 A game made in 96 hours with gameMaker for the GMTK game jam (https://itch.io/jam/gmtk-2024)
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhodGpzOTBhcHkxMHhybXVtYTYwanN1YzZycW9hZ3BuNmN0dTNxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZQqXAbfBaraRc4wKf/giphy.gif)  
-playable on navigator at https://ikkiren.itch.io/little-slime  
+playable on browser at https://ikkiren.itch.io/little-slime  
 more infomartions : https://github.com/Ik-kiren/LittleSlimeGMTK
+
+A game made in 1 week with Godot for the Brackeys Game Jam 2024.2 (https://itch.io/jam/brackeys-12)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR3b281aGcyM2tzbW44dTJhdDl4dGwxa21wY2NtZnd1cW1nYnBzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp)
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRhZmg1bnlubGU5c2tvMHc0bWFyeWEwbmQ0Yjlua2FwdTFwdXB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4sHmQFhbAEz0A4g8u/giphy.webp)  
+playable at : https://impstudio2024.itch.io/dungeons-deceit  
