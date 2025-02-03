@@ -1,5 +1,7 @@
 <h4>Hi, I'm Ikkiren a french dev student aiming to become a game developer.</h4>
 
+<h2>https://ikkiren.itch.io/</h2>
+
 <h2>My Game Projects :</h2>  
 
 2D platformer game with sounds, animations and persistence made with unity.  
