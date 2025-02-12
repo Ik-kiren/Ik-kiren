@@ -21,3 +21,15 @@ A game made with a group in 1 week with Godot for the Brackeys Game Jam 2024.2 (
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpmMjNzaGJhd3hmc3piYTZidmNteXN4cmYwMjA0NHh0MWdnOWtoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp) 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2emx5ZjR5dmd4eXo3ZWdhd21lc3FjMXEzODNxcTh0N3MzdXBzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4d2TLua9ZHm1v4OXi/giphy.gif)  
 playable at : https://impstudio2024.itch.io/dungeons-deceit  
+  
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwdjc1YzI2cGRnb2l1ZTNpd2ZjdDE0MnpqMGJiMXFoMXphaWJtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z22VhE2b1UXWJMYEF/giphy.gif)  
+more informations : https://github.com/Ik-kiren/unity42-module02  
+
+3D Platformer game where you control 3 shapes and have to reach their corresponding emplacement through 5 stages made with unity.  
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFlNGQwdWZidndhbDFqeGhlMXU2M3RxNG9pZm9pbDUwZjlxNjg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFKmXV5BDYXQkjvWrq/giphy.gif)  
+more informations : https://github.com/Ik-kiren/unity42-module01  
+2D tower defense game made with unity.  
+
+little game made in C with the mlx graphic library (https://github.com/codam-coding-college/MLX42) that can be played by passing a "map" of a define format as an argument.  
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTczemg2ZDBlZXhxd2JkYW9naWZhZnhpcXd4ZDl2Y2YxaTMzcjFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ZhFRdgVDf97rc8q9Z/giphy.gif)  
+more informations : https://github.com/Ik-kiren/so_long  
