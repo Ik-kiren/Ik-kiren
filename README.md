@@ -1,6 +1,6 @@
 ### Hi, I'm Ikkiren a french dev student aiming to become a game developer.
 
-# Game Jams Page and Games:
+# Game Jams:
 my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
 
 ### A game I made in 96 hours with gameMaker for the [<ins>GMTK game jam</ins>](https://itch.io/jam/gmtk-2024)  
