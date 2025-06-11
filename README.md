@@ -14,6 +14,7 @@ my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
 ### A game made in 2 weeks for the [<ins>Pirate Software - Game Jam 16</ins>](https://itch.io/jam/pirate16)
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjcDd2amRsM3dqcDJ1a2x3ODkxdWdlcjVtN3lmOW5ncnNtOGhmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6mktNKBXujH0MXTik/giphy.gif) 
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ4cGR3dnpwNGMwa2FjcXU4dzRjdjl6NjVpamtiNHpmbzEyazlwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTsuIk1B4S59i0Y5js/giphy.gif) 
+playable on browser at https://ikkiren.itch.io/cyber-plague  
 
 ### A game I made in 96 hours with gameMaker for the [<ins>GMTK game jam</ins>](https://itch.io/jam/gmtk-2024)  
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhodGpzOTBhcHkxMHhybXVtYTYwanN1YzZycW9hZ3BuNmN0dTNxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SZQqXAbfBaraRc4wKf/giphy.gif)  
