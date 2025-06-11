@@ -2,7 +2,7 @@
 
 # Voxel Engine:
 My Voxel Engine create in C++ with opengl (glew and glfw) with my own mathematics library to manage matrices etc...
-You have fly mode and "ground' mode, can destroy blocks or change lightning mode. The sun is displayed and revolves around the player projecting shadows in real time.
+You have fly mode and "ground' mode, can destroy blocks or change lightning mode. The sun is displayed and revolves around the player projecting shadows in real time.  
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ6enB4N2EzbXBxengwaXpsNmQyZ3cyZmZ5cnE3anpjZ29nY241eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPeqOo7rxW1i9g5GRP/giphy.gif)
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Nqb21ucDVzbTdkbGV5bDhjejRxdWI5NDRmcXRnaXk3ZHc2dnljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUHNzPR32f8sBryMC0/giphy.gif)
 
