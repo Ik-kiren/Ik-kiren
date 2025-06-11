@@ -1,4 +1,4 @@
-<h4>Hi, I'm Ikkiren a french dev student aiming to become a game developer.</h4>
+### Hi, I'm Ikkiren a french dev student aiming to become a game developer.
 
 # Game Jams Page and Games:
 my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
@@ -11,9 +11,6 @@ playable on browser at https://ikkiren.itch.io/little-slime
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpmMjNzaGJhd3hmc3piYTZidmNteXN4cmYwMjA0NHh0MWdnOWtoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aZdC9Hrj7d1u41Fq8r/giphy.webp) 
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2emx5ZjR5dmd4eXo3ZWdhd21lc3FjMXEzODNxcTh0N3MzdXBzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X4d2TLua9ZHm1v4OXi/giphy.gif)  
 playable at : https://impstudio2024.itch.io/dungeons-deceit  
-  
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwdjc1YzI2cGRnb2l1ZTNpd2ZjdDE0MnpqMGJiMXFoMXphaWJtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z22VhE2b1UXWJMYEF/giphy.gif)  
-more informations : https://github.com/Ik-kiren/unity42-module02  
 
 # My Game Projects: 
 
@@ -21,9 +18,13 @@ more informations : https://github.com/Ik-kiren/unity42-module02
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrdHpsc3V4emw0bGV5N2czNWJmMzFuaXpiNjRkcG9za2k4ZzBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zefzBNf6gD7BFalcg0/giphy.gif)  
 more informations : https://github.com/Ik-kiren/unity42-module03  
 
-### rhythm game made with Three.js in javascript, integrated in a website with multiplayer real-time scoring (up right scores are other players' score)  
+### rhythm game made with Three.js in javascript, integrated in a website with multiplayer real-time scoring (up right scores are other players' score)  .
 ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNiYXZzYmdjbXkyMDZuenBuZW53ZHVybWtnZHI5c200c2M5NGVucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjRRXJiSHcvT78pxLl/giphy.webp)  
 more informations but may not be the up-to-date one (the up-to-date could be in the whole private repo project): [https://github.com/Ik-kiren/unity42-module03 ](https://github.com/Ik-kiren/TranscendanceGame)
+
+### 2D tower defense game made with Unity.
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQwdjc1YzI2cGRnb2l1ZTNpd2ZjdDE0MnpqMGJiMXFoMXphaWJtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Z22VhE2b1UXWJMYEF/giphy.gif)  
+more informations : https://github.com/Ik-kiren/unity42-module02  
 
 ### 3D Platformer game where you control 3 shapes and have to reach their corresponding emplacement through 5 stages made with unity.  
 ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFlNGQwdWZidndhbDFqeGhlMXU2M3RxNG9pZm9pbDUwZjlxNjg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFKmXV5BDYXQkjvWrq/giphy.gif)  
