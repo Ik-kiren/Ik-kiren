@@ -1,4 +1,4 @@
-### Hi, I'm Ikkiren a french dev student aiming to become a game developer.
+### Hi, My name is Chris Dupuis and I'am french dev student aiming to become a game developer.
 
 # Voxel Engine:
 My Voxel Engine created in C++ with opengl (glew and glfw) with my own mathematics library to manage matrices etc...
