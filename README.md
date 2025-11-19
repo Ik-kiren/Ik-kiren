@@ -16,7 +16,12 @@ You have fly mode and "ground' mode, can destroy blocks or change lightning mode
 git repo [here](https://github.com/Ik-kiren/ft_vox) and windows executable downloadable [here](https://github.com/Ik-kiren/ft_vox/releases/tag/v0.1.0).
 
 # Game Jams:
+
 my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
+
+### Majesty's Cookie is a game made in a week for the [<ins>Brackeys Game Jam 2025.2</ins>](https://itch.io/jam/brackeys-14)
+[![Video Title](https://i9.ytimg.com/vi/motBkaGbeT0/mq2.jpg?sqp=CNyT98gG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgXCgxMA8=&rs=AOn4CLAE_K1Bi7Hl4PJFg8CHDrWTcARu5A)](https://www.youtube.com/watch?v=motBkaGbeT0)  
+playable on browser at https://h0xxe.itch.io/majestys-cookie
 
 ### A game made in 2 weeks for the [<ins>Pirate Software - Game Jam 16</ins>](https://itch.io/jam/pirate16)
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjcDd2amRsM3dqcDJ1a2x3ODkxdWdlcjVtN3lmOW5ncnNtOGhmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6mktNKBXujH0MXTik/giphy.gif) 
@@ -33,6 +38,9 @@ playable on browser at https://ikkiren.itch.io/little-slime
 playable at : https://impstudio2024.itch.io/dungeons-deceit  
 
 # My Game Projects: 
+
+### 3D stealth game with animation, sounds, musics enemies behaviours etc...
+[![Video Title](https://i9.ytimg.com/vi/-w4DRBIz5D0/mq1.jpg?sqp=COyv98gG&rs=AOn4CLAUdxdMoi_TXU-_6tYNFhFShyezLQ)](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
 
 ### 2D platformer game with sounds, animations and persistence made with unity.  
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrdHpsc3V4emw0bGV5N2czNWJmMzFuaXpiNjRkcG9za2k4ZzBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zefzBNf6gD7BFalcg0/giphy.gif)  
