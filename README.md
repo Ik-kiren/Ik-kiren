@@ -1,5 +1,12 @@
 ### Hi, My name is Chris Dupuis and I'am french dev student aiming to become a game developer.
 
+# Summary
+[Voxel Engine: ](#Voxel-Engine)
+
+[Game Jams: ](#Game-Jams)
+
+[My Game Projects: ](#My-Game-Projects)
+
 # Voxel Engine:
 My Voxel Engine created in C++ with opengl (glew and glfw) with my own mathematics library to manage matrices etc...
 You have fly mode and "ground' mode, can destroy blocks or change lightning mode. The sun is displayed and revolves around the player projecting shadows in real time. In an infinite Procedurally generated world.  
@@ -47,3 +54,5 @@ more informations : https://github.com/Ik-kiren/unity42-module01
 ### little game made in C with the [mlx graphic library](https://github.com/codam-coding-college/MLX42) that can be played by passing a "map" of a define format as an argument.  
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTczemg2ZDBlZXhxd2JkYW9naWZhZnhpcXd4ZDl2Y2YxaTMzcjFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ZhFRdgVDf97rc8q9Z/giphy.gif)  
 more informations : https://github.com/Ik-kiren/so_long  
+
+[To Summary](#Summary)
