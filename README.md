@@ -40,9 +40,13 @@ playable at : https://impstudio2024.itch.io/dungeons-deceit
 
 # My Game Projects: 
 
-### 3D stealth game with animation, sounds, musics enemies behaviours etc...
+### 3D stealth game with animation, sounds, musics enemy behaviours etc...
 [Video Link](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
 [![Video Title](https://i9.ytimg.com/vi/-w4DRBIz5D0/mq1.jpg?sqp=COyv98gG&rs=AOn4CLAUdxdMoi_TXU-_6tYNFhFShyezLQ)](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
+
+### 3D tests with combats, cameras and enemy behaviours
+[Video Title](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
+[![Video Title](https://i9.ytimg.com/vi/jwkUbf7BFNI/mq1.jpg?sqp=CJy598gG&rs=AOn4CLCXPnpiazcrMS0kjVSQCpUkbZwFWQ)](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
 
 ### 2D platformer game with sounds, animations and persistence made with unity.  
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrdHpsc3V4emw0bGV5N2czNWJmMzFuaXpiNjRkcG9za2k4ZzBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zefzBNf6gD7BFalcg0/giphy.gif)  
