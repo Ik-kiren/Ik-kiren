@@ -21,7 +21,7 @@ my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
 
 ### Majesty's Cookie is a game made in a week for the [<ins>Brackeys Game Jam 2025.2</ins>](https://itch.io/jam/brackeys-14)
 [Video Link](https://youtu.be/motBkaGbeT0?si=R0Jk1LWiv9nOTE3-)  
-[![Video Title](https://i9.ytimg.com/vi/motBkaGbeT0/mq2.jpg?sqp=CNyT98gG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgXCgxMA8=&rs=AOn4CLAE_K1Bi7Hl4PJFg8CHDrWTcARu5A)](https://youtu.be/motBkaGbeT0?si=R0Jk1LWiv9nOTE3-)  
+[![Video Title](https://i9.ytimg.com/vi_webp/motBkaGbeT0/mq2.webp?sqp=COi2tckG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgXigxMA8=&rs=AOn4CLAuhT0Tmg42TVlWkAWfX-q4TOTtng)](https://youtu.be/motBkaGbeT0?si=R0Jk1LWiv9nOTE3-)  
 playable on browser at https://h0xxe.itch.io/majestys-cookie
 
 ### A game made in 2 weeks for the [<ins>Pirate Software - Game Jam 16</ins>](https://itch.io/jam/pirate16)
@@ -46,7 +46,7 @@ playable at : https://impstudio2024.itch.io/dungeons-deceit
 
 ### 3D tests with combats, cameras and enemy behaviours
 [Video Title](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
-[![Video Title](https://i9.ytimg.com/vi/jwkUbf7BFNI/mq1.jpg?sqp=CJy598gG&rs=AOn4CLCXPnpiazcrMS0kjVSQCpUkbZwFWQ)](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
+[![Video Title](https://i9.ytimg.com/vi_webp/-w4DRBIz5D0/mq2.webp?sqp=CJS5tckG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCAgWSh_MA8=&rs=AOn4CLDSxRivCyu0Tx3NofofvESvYWX6Jg)](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
 
 ### 2D platformer game with sounds, animations and persistence made with unity.  
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJrdHpsc3V4emw0bGV5N2czNWJmMzFuaXpiNjRkcG9za2k4ZzBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zefzBNf6gD7BFalcg0/giphy.gif)  
