@@ -20,8 +20,8 @@ git repo [here](https://github.com/Ik-kiren/ft_vox) and windows executable downl
 my [itch.io page](https://ikkiren.itch.io) with my Game Jams games.
 
 ### Majesty's Cookie is a game made in a week for the [<ins>Brackeys Game Jam 2025.2</ins>](https://itch.io/jam/brackeys-14)
-[Video Link](https://www.youtube.com/watch?v=motBkaGbeT0)  
-[![Video Title](https://i9.ytimg.com/vi/motBkaGbeT0/mq2.jpg?sqp=CNyT98gG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgXCgxMA8=&rs=AOn4CLAE_K1Bi7Hl4PJFg8CHDrWTcARu5A)](https://www.youtube.com/watch?v=motBkaGbeT0)  
+[Video Link](https://youtu.be/motBkaGbeT0?si=R0Jk1LWiv9nOTE3-)  
+[![Video Title](https://i9.ytimg.com/vi/motBkaGbeT0/mq2.jpg?sqp=CNyT98gG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGHIgXCgxMA8=&rs=AOn4CLAE_K1Bi7Hl4PJFg8CHDrWTcARu5A)](https://youtu.be/motBkaGbeT0?si=R0Jk1LWiv9nOTE3-)  
 playable on browser at https://h0xxe.itch.io/majestys-cookie
 
 ### A game made in 2 weeks for the [<ins>Pirate Software - Game Jam 16</ins>](https://itch.io/jam/pirate16)
