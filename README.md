@@ -42,7 +42,7 @@ playable at : https://impstudio2024.itch.io/dungeons-deceit
 
 ### 3D stealth game with animation, sounds, musics enemy behaviours etc...
 [Video Link](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
-[![Video Title](https://i9.ytimg.com/vi_webp/jwkUbf7BFNI/mq1.webp?sqp=CJS5tckG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgZSgtMA8=&rs=AOn4CLDoA5B47KNyAWS5j6ixGf6hs5fzvQ)](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
+[![Video Title](https://i9.ytimg.com/vi/jwkUbf7BFNI/mq1.jpg?sqp=CJS5tckG&rs=AOn4CLB31LYBpFNcKy_8aTvjr46XYg-eXg)](https://www.youtube.com/watch?v=-w4DRBIz5D0)  
 
 ### 3D tests with combats, cameras and enemy behaviours
 [Video Title](https://www.youtube.com/embed/jwkUbf7BFNI?si=kAw3t5HocNUS-COJ)  
